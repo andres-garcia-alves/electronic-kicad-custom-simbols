@@ -10,9 +10,10 @@ Notes:
 &nbsp;
 
 Current available simbols:
-- Connector_USB_A_OnlyPower
-- Interface_Optical_VS1338B
+- Connector_USB_A_OnlyPower: USB Type A female connector, with only power pins enabled.  
+- Interface_Optical_VS1338B: IR-sensor model VS1338B.
 
+&nbsp;
 
 v1.0 (2023.05.10) - Initial release.  
 
