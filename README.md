@@ -14,7 +14,7 @@ Notes:
 | Simbol          | Library           | Description                                                |
 |-----------------|-------------------|------------------------------------------------------------|
 | USB_A_OnlyPower | Connector         | USB Type A female connector, with only power pins enabled. |
-| VS1338B         | Interface_Optical | IR-sensor model VS1338B.                                   |
+| VS1838B         | Interface_Optical | IR-sensor model VS1838B.                                   |
 
 &nbsp;
 
